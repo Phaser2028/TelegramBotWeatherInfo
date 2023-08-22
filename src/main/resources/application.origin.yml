@@ -1,0 +1,16 @@
+server:
+  port:
+
+telegram:
+  bot:
+    token:
+    name:
+
+yandex:
+  weather:
+    key:
+    head:
+    url:
+  geocode:
+    url:
+    key:

@@ -11,7 +11,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 @Component
-public class BotInitializer {
+public class TelegramBotInitializer {
 
     @Autowired
     TelegramBot telegramBot;
